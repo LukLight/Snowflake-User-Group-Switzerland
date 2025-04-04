@@ -1,4 +1,6 @@
 # Welcome to our Snowflake Usergroup in Switzerland!
+<img src="./Images/Header.avif" width="700">
+
 This repository will serve as platform to share code and presentations from user group meetings.
 
 Find our MeetUp group here:
@@ -15,5 +17,3 @@ Preliminary Agenda:
 - 18:15 - Intro to SQLMesh (Lukas Leichtle)
 - 18:45 - Snowflake Updates (Martin Seifert & Richard Kirk)
 - 19:00 - Networking
-
-
